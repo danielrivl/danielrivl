@@ -1,8 +1,8 @@
 # Quem sou?
-- Oi, eu sou @danielrivl
-- Estou interessado em estudar hadware e software
-- Eu gosto de jogar futebol
-- Estou focado em ser o melhor na minha profissão
+- Oi, eu sou Daniel Riveros
+- Estou interessado em estudar hadware e software.
+- Uma das minhas matérias favoritas é matemática.
+- Estou focado em ser o melhor em tudo o que faço.
 
 
 
